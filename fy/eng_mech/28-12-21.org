@@ -1,0 +1,31 @@
+#+TITLE: First Lecture of Mechanical Engineering.
+#+DISCRIPTION: lecture by Prasad Gayke.
+
+* Introduction
+** Do something for yourself & not for the society...
+- EM Engineering Mechanics *101011*
+** Professor
+- Graducation in CIVIL - sanjivani Kopargaon(good collage for civil)
+- Masters In Building(ig)- yeola (near nashik)
+** Unit 1.
+unit 1 - 4 are for statics(objects that don't move (rest objects))
+ - Based on Newton's Laws
+   Revision needed for 11th and 12th science. Physics specifically
+unit 5-6 are for Dynamics
+*** Resolution & composition forces.
+*** Distributed forces and friction.
+*** Equilibrium
+*** Analysis of Structure
+*** Kinematics of a particles
+*** Kinetics of a particle
+
+** Some info
+- 25 points..
+- Based on student performance..
+- Collage attendance
+- Lectures joining && interactions with the teacher.
+** Exam Weight
+- Based on 2019 pattern.(Because of covid).
+-
+** Practical Use of this subject.
+-
