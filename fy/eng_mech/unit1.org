@@ -35,14 +35,14 @@ The eleventh general conference of weights and measured has recommended a unifee
 **** Formulas Image:
 _8-11 are imp_
 **** Basic Terminology
-- _Mass : the quantity of matter possed by a body is called mass.
-- _Time : The time is the measure of succession of events
-- _Space : The geometric region in which study of body is involved is called space.
-- _Length : It is concept to measure linear distances
-- _Displacement - distance moved by a particle in a specified direction
-- _Velocity: The rate of change of Displacement with respect to time.
-- _Acceleration: Rate of change of velocity with respect to time.
-- _Momentum: Product of mass and velocity
-- _Continumm: Continuous Distribution of matter
-- _Rigit Body: A body is said to be rigit if the relative positions of any two particles do not change under the action of the forces acting on it.
-- _Particle: A particle may be defined as an object which has only mass and no size.
+- _Mass_ : the quantity of matter possed by a body is called mass.
+- _Time_ : The time is the measure of succession of events
+- _Space_ : The geometric region in which study of body is involved is called space.
+- _Length_ : It is concept to measure linear distances
+- _Displacement_ : distance moved by a particle in a specified direction
+- _Velocity_: The rate of change of Displacement with respect to time.
+- _Acceleration_: Rate of change of velocity with respect to time.
+- _Momentum_: Product of mass and velocity
+- _Continumm_: Continuous Distribution of matter
+- _Rigit Body_: A body is said to be rigit if the relative positions of any two particles do not change under the action of the forces acting on it.
+- _Particle_ : A particle may be defined as an object which has only mass and no size.
