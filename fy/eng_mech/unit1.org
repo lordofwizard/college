@@ -46,11 +46,7 @@ _8-11 are imp_
 - _Continumm_: Continuous Distribution of matter
 - _Rigit Body_: A body is said to be rigit if the relative positions of any two particles do not change under the action of the forces acting on it.
 - _Particle_ : A particle may be defined as an object which has only mass and no size.
-[[./img/for 1.png]]
-
-[[./img/for 2.png]]
-[[./img/for 3.png]]
-
+[["img/for 1.png"]]
 | Scalar                                                                                                                                                                      | Vector                                                                                                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | The scalar quantites (or sometimes known as scalars) are those quantities which have magnitude only such as length lengh mass time distance volume density temprature speed | the vector quantities (or sometimes known as vectors) are those quantities which have both magnitude and direction such as force, displacement, velocity, acceleration, momentum, |
@@ -59,5 +55,11 @@ _8-11 are imp_
 ***** Representation of a vector
 A vector is represented by a directed line. It maybe noted that lengh OA-> represents the magnitude of a vector OA. The direction of the vector is OA is from O (i.e, starting point) to A (i.e, End point). It is also known as vector P.
 ***** Unit Vector
+A vector whose magnitude is unity(0), is known as unit vector.
 ***** Equal vectors
+The vectors, which are parallel to eachother and have same direction (i.e same sence) and equal magnitutde are known as equal vectors.
 ***** Like Vectors
+The vectors, which are parallel to each other and have same sence but unequal magnitude, are known as like vectors.
+**** Force
+- Newton's First law states that everybody continues in it's state of rest or of uniform motion in a straight line unless it compelled by an external agency acting on it. This leads to the defination of force as ' force is an external egency which changes or trends to change the state of rest or uniform linear motion of the body'
+- magnitude of force is defined by Newton's second law. It states that the rate of change of momentum of a body is directly proportional to the impressed force and it takes place in the direction of force acting on it.
