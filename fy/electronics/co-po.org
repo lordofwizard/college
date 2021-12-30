@@ -1,5 +1,5 @@
 #+TITLE: Co Po
-
+#+DISCRIPTION: Co-Po lecture and some questions and answers.
 * Co - Po
 
 ** Groups
@@ -36,13 +36,15 @@ SHITPOINT-> people don't wear masks.\\
     can't predict right now..\\
 SHITPOINT-> after jan cases always\\
 11) my question.. what are mentors.\\
-  asks personal questions.. and take meetings.. asks about basic things and guides..\\
-  sometimes personal calling\\
+ asks personal questions.. and take meetings.. asks about basic things and guides..\\
+ sometimes personal calling\\
    - *33-64 SHITAL PATIL* mentor..
    - *1-32 AMIT KHANDAGALE* mentor..
 12) way of taking lectures\\
-   most probably on projectors and a effort to take lectures in interesting way.\\
+  most probably on projectors and a effort to take lectures in interesting way.\\
 13) Signin problems?\\
-   yes.. do you guys know?\\
-   go to https://teams.microsoft.com/. then login there.\\
-   use default passwords and stuff.\\
+  yes.. do you guys know?\\
+  go to https://teams.microsoft.com/. then login there.\\
+  use default passwords and stuff.\\
+14)  Theorotical? or numericals?
+    mostly theorotical but some numericals.
