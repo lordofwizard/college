@@ -1,0 +1,34 @@
+#+TITLE: Unit1
+#+DISCRIPTION: Resolution and compairison forces
+
+* Sylllabus
+-  Principle of statics
+-  Force system, Resolution and composition of forces, Resultant concurrent forces. Moment of force.
+-  varigon's Theorem, Resultant of parrel force system.
+-  couple Equivalent force couple system.
+-  Resultant of parrelel general force system.
+* Engineeering Mechanics.
+*MEANING* It is study of state of rigit body under applications of forces(external).
+- Study -> *observer*, object & observations i.e it will observe physical quantity which are for example Mass, velocity force torque.
+- Rigit body -> solid (rigit and deformable), Liquid and Gas.
+- Forces -> It is some effect of external agent when applied to body, it can change the state of body.
+
+** Entra point:
+As a matter of fact knowledge of Engineering Mechanics is _very_ _essential_ for an engineer in *planning* *designing* and *constuction* of his various types of structure and machine.
+** Units:
+*** Fundamental Units
+ Every quantity is measured in terms of some arbitrary, but internationally accepted units called as fundamental units.
+ 1. Length
+ 2. Mass
+ 3. Time.
+*** Derived Units
+ Sometimes, the units are also expressed in other units which are derived from fundamental units known as derived units. e.g. units of area, velocity, acceleration, pressure etc.
+*** Systems of units
+There are only four systems of unit which are ocmmandly used and universally recognised.
+These are known as:
+1. C.G.S
+2. F.P.S
+3. M.K.S
+4. S.I
+**** S.I units:
+The eleventh general conference of weights and measured has recommended a unifeed and systematically constituted system of fundamental are derived its for international use. This system of units is now being used in many countries.

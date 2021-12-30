@@ -1,0 +1,9 @@
+#+TITLE: Lec1 of electroncis
+#+AUTHOR: LordOfWizard
+#+TEACHER: shital patil
+
+* Introduction
+** Unit 1
+*** Semiconductors and history of electronics.
+*** Diodes
+***
