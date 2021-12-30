@@ -46,7 +46,7 @@ _8-11 are imp_
 - _Continumm_: Continuous Distribution of matter
 - _Rigit Body_: A body is said to be rigit if the relative positions of any two particles do not change under the action of the forces acting on it.
 - _Particle_ : A particle may be defined as an object which has only mass and no size.
-[["img/for1.png"]]
+[[imgs/for1.png]]
 | Scalar                                                                                                                                                                      | Vector                                                                                                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | The scalar quantites (or sometimes known as scalars) are those quantities which have magnitude only such as length lengh mass time distance volume density temprature speed | the vector quantities (or sometimes known as vectors) are those quantities which have both magnitude and direction such as force, displacement, velocity, acceleration, momentum, |
