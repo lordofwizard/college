@@ -18,3 +18,5 @@ Deals with forces and its effects when the body is at rest.
 - but the deformations induced are usually very small which does not affect the condition of equilibrium.
 ** Addition of vectors.
 [[imgs/addition.png]]
+** Substraction of vectors.
+[[imgs/subtraction.png]]
