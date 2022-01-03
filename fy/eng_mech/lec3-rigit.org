@@ -24,5 +24,6 @@ Deals with forces and its effects when the body is at rest.
 A force may be produce the following effects in a body, on which it acts:
 1) It may change the motion of a body i.e if a body is at rest, the force may set it in motion, And if the body is already in motion, the force may accelerate it.
 2) It may retard the motion of a body.
+   -- TAUGHT UNTIL HERE --
 3) It may retard the forces, already acting on a body, thus bringing it to rest or in equilibrium. we shall study this effect in equilibrium.
 4) It may give rise to internal stresses in the body. on which it acts. We shall study this effect in the chapters 'Analysis of perfect Frames.'.
