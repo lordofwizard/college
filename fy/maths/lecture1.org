@@ -1,0 +1,9 @@
+#+TITLE: Lecture1 of maths
+#+DISCRIPTION: first lecture of maths with RahulKumar KatKade sir.
+BOOK :- nerali prakashan or technical publication
+
+ATTENDANCE
+
+* syllabus
+unit 1
+        [[imgs/course-content.png]]
