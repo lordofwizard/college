@@ -1,0 +1,20 @@
+#+TITLE:  RIGID BODY MECHANICS
+
+* Studing external effect of forces on a body such as
+- velocity
+- acceleration
+- displacement.
+**** point 2
+    Studing internal effect of forces on a body such as stresses (internal resistance) , change in shape,etc.
+*** Statics
+Deals with forces and its effects when the body is at rest.
+*** Dynamics
+ Deals with forces and its effects when the body is in moving condition.
+
+** Rigit Body Mechanics
+- Negligible deformation: no deformation under the action of forces.
+- Assuming 100% strength in the materials. I, arge number of particles occupying fixed postions with each other
+- Actual Structures and machines are never rigid under the action of external loads or forces.
+- but the deformations induced are usually very small which does not affect the condition of equilibrium.
+** Addition of vectors.
+[[imgs/addition.png]]
