@@ -7,3 +7,6 @@ ATTENDANCE
 * syllabus
 unit 1
         [[imgs/course-content.png]]
+* books
+    [[imgs/books.png]]
+    hum jitne bhi notes denge woh aap thik se padhoge.. aur aapko extra knowledge chaiye tohi refer karna - sir.
