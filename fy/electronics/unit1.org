@@ -1,0 +1,21 @@
+#+TITLE: Unit1
+#+DISCRIPTION: Basic of electronics.. Evolution
+
+* Evolution of electronics.
+**  Technology and society.
+*** Impact of electronics on our society.
+    Society - Mobile, TV, personal computer, medical. etc.
+    communications, audio systems, defense, home.
+*** Impact in industry.
+    Robots, survailances camera's.automotive. space.
+*** QUOTE
+#+BEGIN_QUOTE
+    We shape our tools, and thereafter our tools shape us.
+- marshall MaLuhan
+#+END_QUOTE
+- Developments in information technology has helped govemnments to improve their 'service' to their citizens
+- Anvances in database technology for example have enabled the governments of various countries to collate and monitor statistical information that they can use to combat fraud, manage the economy.
+
+
+-- Educational Organisation--
+*** Impact of technology on work.
