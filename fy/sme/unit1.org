@@ -6,7 +6,7 @@
 
 * Unit 1
 *** Forms of energy
-- Energy : The capacity or ability for doing work. It may exist in potential, kinetic, thermal, electrical, chemical, nuclear or other vairous forms.
+*Energy : The capacity or ability for doing work. It may exist in potential, kinetic, thermal, electrical, chemical, nuclear or other vairous forms.*
 - Thermal Energy
 - chemical Energy
 - Electrical energy
