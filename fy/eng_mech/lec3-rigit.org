@@ -27,3 +27,18 @@ A force may be produce the following effects in a body, on which it acts:
    -- TAUGHT UNTIL HERE --
 3) It may retard the forces, already acting on a body, thus bringing it to rest or in equilibrium. we shall study this effect in equilibrium.
 4) It may give rise to internal stresses in the body. on which it acts. We shall study this effect in the chapters 'Analysis of perfect Frames.'.
+** Characteristics of a force:
+In order to determine the effect of a force, acting on a body, we must know the following characteristics of a force :
+1) Magnitude of the force (/i.e/, 100N, 50N, 25kN, 5kN, etc).
+2) The direction of the line along which the force acts (/i.e/ along OX, OY at 30 Deg North of East etc.). It is also known as line of action of the force.
+3) Nature of the force (/i.e/, whether the force is push or pull). This is denoted by placing an aroow head on the line of action of the force.
+4) the point at which (or through which) the force acts on the body.
+** Principle of Transmissibility of Forces :
+- If a Force is acting on a rigit body at Point A it can be transferred to other points B or C on some body, keeping same magnitude, direction and line of action, then that effect will remain same.
+ [[imgs/rigit.png]]
+** Newton's Laws of motion:
+*** 1st law
+It  a body is in rest or in uniform motion it will remain in same state until an external
+** composition and Resolution of Forces:
+- The Process of finding out the resultant force,of a number of give forces (vector), is called composition of forces (vectors) or compounding of forces (vectors).
+- the resolution of vetors is exactly the opposite procecss of composition i.e, it is the process of finding two or more vectors whichh will have the same effect effect as that of a vector acting on a body.
