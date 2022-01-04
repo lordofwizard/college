@@ -42,3 +42,12 @@ It  a body is in rest or in uniform motion it will remain in same state until an
 ** composition and Resolution of Forces:
 - The Process of finding out the resultant force,of a number of give forces (vector), is called composition of forces (vectors) or compounding of forces (vectors).
 - the resolution of vetors is exactly the opposite procecss of composition i.e, it is the process of finding two or more vectors whichh will have the same effect effect as that of a vector acting on a body.
+** System of Force :
+When two or more forces act on a body, they are called to form a system of forces. Following systems of forces are important from the subject point of view:
+1) Coplanar Forces: The forces, whose lines of action lie on the same plane, are known as coplanar forces.
+2) Collinear forces: The forces, whose lines of action line on the same line are known as collinear forces.
+3) Concurrent forces: The forces, which meet at one point, are known as concutrrent forces. The concurrent forces may or may not be collinear
+4) Coplanar concurrent forces: The forces, which meet at one point and their lines of action also lie on the same plane, are known as coplanar concurrent forces.
+5) Coplanar non-noncurrent forces: The forces, which do not meet at one point, but their lines of action lie on the same plane are known as coplanar non-concurrent forces.
+6) Non-coplanar concurrent forces: The forces, which meet at one point but their lines of action do not lie on the same plane, are known as non-coplanar concurrent forces.
+7) Non-Coplanar non-concurrent forces: The forces, which do not meet at one point and their lines of action do not lie on the same plane, are called non-coplanar non-concurrent forces.
