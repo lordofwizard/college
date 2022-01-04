@@ -15,7 +15,7 @@
 - gravitational energy.
 
 - Classification of energy sources:
-  - [] Renewable / non conventional energy sources.\
+  - [] Renewable / non conventional energy sources. \
     solar,tidal,wind,hydrogen,biomass etc.
   - [X] Non renewable / conventional energy sources.\
     coal, fossile fuel etc.
