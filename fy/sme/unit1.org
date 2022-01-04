@@ -1,0 +1,49 @@
+#+TITLE: Unit1
+#+DISCRIPTION: UNIT 1 notes
+
+
+
+
+* Unit 1
+*** Forms of energy
+- Energy : The capacity or ability for doing work. It may exist in potential, kinetic, thermal, electrical, chemical, nuclear or other vairous forms.
+- Thermal Energy
+- chemical Energy
+- Electrical energy
+- mechanical energy
+- nuclear energy
+- gravitational energy.
+
+- Classification of energy sources:
+  - [] Renewable / non conventional energy sources.\
+    solar,tidal,wind,hydrogen,biomass etc.
+  - [X] Non renewable / conventional energy sources.\
+    coal, fossile fuel etc.
+**** Thermal Energy
+Thermal = heat\
+energy produced by heat and that heat comes from moment's of objects tiny particles.\
+or\
+energy of systems or substances which is related to temprature.
+**** Grades of energy
+1) high grade energy
+2) low grade energy
+- *Introduction of energy sources and it's conversion.*
+*** Thermal / Steam energy:
+    [[imgs/steam.png]]
+    [[imgs/steam2.png]]
+**** Some formula's
+[[imgs/formula1.png]]
+[[imgs/formula2.png]]
+*** Advantanges of thermal (steam) power plants :
+1) fuel used is cheaper.
+2) They can respond quickly with changes in load on the plant.
+3) space required is less compared to hydro power plants.
+4) A portion of steam can be used as process steam for various industries.
+5) Cost of electric power generation and its initial cost is less compared to diesel plants.
+6) can be located near the load centre conveniently thus reduces the transmission line cost and loss of energy transmission lines.
+*** Disadvantages of thermal (steam) power plants :
+1) time needed for errection of plant is high before it is put to operation.
+2) Large quantity of water is needed
+3) coal and ash handling process is a seroious problem.
+4) the part load effciency is low.
+5) pollution causes health problems to workers and habitants near the thermal power plant.
