@@ -51,3 +51,4 @@ When two or more forces act on a body, they are called to form a system of force
 5) Coplanar non-noncurrent forces: The forces, which do not meet at one point, but their lines of action lie on the same plane are known as coplanar non-concurrent forces.
 6) Non-coplanar concurrent forces: The forces, which meet at one point but their lines of action do not lie on the same plane, are known as non-coplanar concurrent forces.
 7) Non-Coplanar non-concurrent forces: The forces, which do not meet at one point and their lines of action do not lie on the same plane, are called non-coplanar non-concurrent forces.
+[[imgs/figure.png]]
