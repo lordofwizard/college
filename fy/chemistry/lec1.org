@@ -10,3 +10,11 @@
 | Collooidal  impurities        |organic or inorganic matter of colloidal particle size 10 to 1000A makes water turbid.         | coagulation followed by sedimentation or filtration. The coagulants are like FeSO4 alums puls floors, sodium acuminate , aluminum suplhate.         |
 |Dissolved Impurity  |Dissolved salts/ions Ca+2,Mg+2, Fe+2, Mn+2, cl-2 , NO3, HCO3, SO4-2 & dissolved gases o2, s02, NH3      |chemical treatment,mechanical deaeration method for gases             |
 | Biological  Impurity       | includes bacteria algae fungi and other small size aquatic animals         | Sterilization use of chem, eg Bleaching sodium hypochlorite, chlorine, chloramine, Ozone, UV light.         |
+*** Hardness of water.
+- Temorary Hardness/Carbonate Hardness:
+  The hardness comes in water due to presence of carbonates & bicarbonates of heavy metal stals. This hardness is called temporary Hardness/Carbonate Hardness e.g.\\
+  CaCO3, MgCO3, Ca(HCO3)2, Mg(HCO3)2, FeCO3, etc.
+  - This hardness can be renoved by boiling the water i.e. CO2 is removed.
+  - Mg(HCO3)2 -boiling-> Mg(OH)2 + 2CO2
+  - Ca(HCO3)2 -boiling-> CaCO3 + CO2 + H2)
+  - MgCO3     -boiling-> Mg(OH)2 + CO2
