@@ -1,0 +1,38 @@
+#+TITLE: Lec1
+#+DISCRIPTION: First lecture
+
+5 Credits and 125 marks.
+
+* Unit 1: Water Technology.
+*** impurities in water:
++----------+----------+----------+
+|Impurities          |properties          |Removal methods          |
+|          |       |          |
+|          |       |          |
+|          |          |          |
+|          |          |          |
++----------+----------+----------+
+|          |particles like soil sand organic waste size of particles greater than 1000A and visible          |simple filtration or the sedimentation or settlement          |
+| Suspended          |          |          |
+| impurities         |          |          |
+|          |          |          |
+|          |          |          |
++----------+----------+----------+
+|          |          |          |
+| Collooidal          |          |          |
+|  impurities        |organic or inorganic matter of colloidal particle size 10 to 1000A makes water turbid.         | coagulation followed by sedimentation or filtration. The coagulants are like FeSO4 alums puls floors, sodium acuminate , aluminum suplhate.         |
+|          |          |          |
+|          |          |          |
++----------+----------+----------+
+|          |          |          |
+|Dissolved   |Dissolved salts/ions Ca+2,Mg+2, Fe+2, Mn+2, cl-2 , NO3, HCO3, SO4-2 & dissolved gases o2, s02, NH3      |chemical treatment,mechanical deaeration method for gases             |
+| Impurtitie         |          |          |
+|          |          |          |
+|          |          |          |
++----------+----------+----------+
+|          |          |          |
+| Biological         | includes bacteria algae fungi and other small size aquatic animals         | Sterilization use of chem, eg Bleaching sodium hypochlorite, chlorine, chloramine, Ozone, UV light.         |
+| Impurities         |          |          |
+|          |          |          |
+|          |          |          |
++----------+----------+----------+
