@@ -30,3 +30,22 @@ components which can temporarily store energy.
 **** What is a resistor?
 - Resistor is a passive circuit element which opposes the flow of current / electricity.
 [[imgs/resistor.png]]
+*** Types of resistors.
+***** Carbon composition Resistors.
+Created with Carbon Particles + Binder Clay. Ceramic substrate .. with change of helix we can change the resistance value.
+***** Wirewound Resistor
+***** Metal Oxide resistor.
+***** Variable Resistor
+** Types of inductors
+*** AIR CORE INDUCTOR
+high frequency inductor.
+*** Iron core inductor.
+Used in Audio Equipment.
+*** Laminated Inductor.
+*** Ferrite Core Inductor.
+Created with ferromagnetic material.\\
+Used in Radio Applications.
+*** Trodial Inductors.
+Very low frequency.
+*** Variable Inductor.
+Used in printed Circuits.
