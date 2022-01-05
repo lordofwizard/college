@@ -25,3 +25,8 @@ components which can temporarily store energy.
 2) Active devices are capable of providing power gain, and passive devices are incapable of providing power gain.
 3) Active devices can control the current (energy) flow within the circuit, whereas passive devices cannot control it.
 4) An external power is required to start basic operation of an active device where no extra power is used for passive devices.
+
+*** Resistor
+**** What is a resistor?
+- Resistor is a passive circuit element which opposes the flow of current / electricity.
+[[imgs/resistor.png]]
