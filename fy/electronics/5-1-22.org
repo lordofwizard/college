@@ -37,6 +37,7 @@ Created with Carbon Particles + Binder Clay. Ceramic substrate .. with change of
 ***** Metal Oxide resistor.
 ***** Variable Resistor
 ** Types of inductors
+[[imgs/inductor.png]]
 *** AIR CORE INDUCTOR
 high frequency inductor.
 *** Iron core inductor.
