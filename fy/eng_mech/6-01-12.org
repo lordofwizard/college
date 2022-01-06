@@ -1,0 +1,3 @@
+#+TITLE: 6 01 12
+** Parallelogram law of forces.
+[[imgs/parallel.png]]

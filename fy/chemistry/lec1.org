@@ -1,8 +1,6 @@
 #+TITLE: Lec1
 #+DISCRIPTION: First lecture
-
 5 Credits and 125 marks.
-
 * Unit 1: Water Technology.
 *** impurities in water:
 |Impurities          |properties          |Removal methods          |
@@ -21,3 +19,4 @@
   - Mg(HCO3)2 -boiling-> Mg(OH)2 + 2CO2
   - Ca(HCO3)2 -boiling-> CaCO3 + CO2 + H2)
   - MgCO3     -boiling-> Mg(OH)2 + CO2
+2) Permenent /
