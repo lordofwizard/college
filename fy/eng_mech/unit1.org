@@ -70,3 +70,7 @@ The vectors, which are parallel to each other and have same sence but unequal ma
 **** Force
 - Newton's First law states that everybody continues in it's state of rest or of uniform motion in a straight line unless it compelled by an external agency acting on it. This leads to the defination of force as ' force is an external egency which changes or trends to change the state of rest or uniform linear motion of the body'
 - magnitude of force is defined by Newton's second law. It states that the rate of change of momentum of a body is directly proportional to the impressed force and it takes place in the direction of force acting on it.
+| Hello | COl2 |
+|-------+------|
+| hello | ther |
+|-------+------|
